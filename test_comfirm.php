@@ -1,4 +1,5 @@
 <?php
+
 $errors = [];
 $name = $_POST['name'];
 $gender = $_POST['gender'];
@@ -77,7 +78,7 @@ include "test.php";
 
  <body>
    <fieldset>
-     <legend>これでいいですか？</legend>
+     <legend>これでいいですか？？</legend>
      <table>
        <thead>
          <tr>
