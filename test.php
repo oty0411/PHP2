@@ -25,7 +25,6 @@
 </head>
 <header>
 <img src="/Applications/XAMPP/xamppfiles/htdocs/06_php01_sample/php_img/osi.png" width="300px" height="200px" alt="青空">
-
 </header>
 <body>
   <form action="test_comfirm.php" method="post">
